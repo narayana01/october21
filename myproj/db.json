@@ -1,0 +1,288 @@
+{
+  "Employee": [
+    {
+      "created_at": "2019-10-21T13:08:55.000Z",
+      "title": "At the Times, a Hesitance to Hyperlink",
+      "url": "https://www.vice.com/en_uk/article/ywaeg5/at-the-times-a-hesitance-to-hyperlink",
+      "author": "bookofjoe",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571663335,
+      "_tags": [
+        "story",
+        "author_bookofjoe",
+        "story_21311818"
+      ],
+      "objectID": "21311818",
+      "_highlightResult": {
+        "title": {
+          "value": "At the Times, a Hesitance to Hyperlink",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.vice.com/en_uk/article/ywaeg5/at-the-times-a-hesitance-to-hyperlink",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bookofjoe",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 1
+    },
+    {
+      "created_at": "2019-10-21T13:48:42.000Z",
+      "title": "Dear Stack Overflow, we need to talk",
+      "url": "https://medium.com/@cellio/dear-stack-overflow-we-need-to-talk-13bf3f90204f",
+      "author": "kiko_2",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571665722,
+      "_tags": [
+        "story",
+        "author_kiko_2",
+        "story_21312183"
+      ],
+      "objectID": "21312183",
+      "_highlightResult": {
+        "title": {
+          "value": "Dear Stack Overflow, we need to talk",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://medium.com/@cellio/dear-stack-overflow-we-need-to-talk-13bf3f90204f",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "kiko_2",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 2
+    },
+    {
+      "created_at": "2019-10-21T14:10:38.000Z",
+      "title": "Tulsa Race Riot",
+      "url": "https://en.wikipedia.org/wiki/Tulsa_race_riot",
+      "author": "thewarpaint",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571667038,
+      "_tags": [
+        "story",
+        "author_thewarpaint",
+        "story_21312426"
+      ],
+      "objectID": "21312426",
+      "_highlightResult": {
+        "title": {
+          "value": "Tulsa Race Riot",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://en.wikipedia.org/wiki/Tulsa_race_riot",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "thewarpaint",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 3
+    },
+    {
+      "created_at": "2019-10-21T14:13:33.000Z",
+      "title": "The invented Chinese names of the 2019 Canadian federal election – ranked",
+      "url": "http://www.nikobell.ca/the-invented-chinese-names-of-the-2019-federal-election-ranked/",
+      "author": "firloop",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571667213,
+      "_tags": [
+        "story",
+        "author_firloop",
+        "story_21312456"
+      ],
+      "objectID": "21312456",
+      "_highlightResult": {
+        "title": {
+          "value": "The invented Chinese names of the 2019 Canadian federal election – ranked",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://www.nikobell.ca/the-invented-chinese-names-of-the-2019-federal-election-ranked/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "firloop",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 4
+    },
+    {
+      "created_at": "2019-10-21T14:19:46.000Z",
+      "title": "Show HN: Note taking wep app in 100 lines of code",
+      "url": "https://github.com/starikovs/contenteditable.space",
+      "author": "starikovs",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571667586,
+      "_tags": [
+        "story",
+        "author_starikovs",
+        "story_21312524",
+        "show_hn"
+      ],
+      "objectID": "21312524",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Note taking wep app in 100 lines of code",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/starikovs/contenteditable.space",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "starikovs",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 5
+    },
+    {
+      "created_at": "2019-10-21T14:17:42.000Z",
+      "title": "'Everybody Is Freaking Out': CA law aimed at Uber might harm freelance writers",
+      "url": "https://www.hollywoodreporter.com/news/everybody-is-freaking-freelance-writers-scramble-make-sense-new-california-law-1248195",
+      "author": "firasd",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571667462,
+      "_tags": [
+        "story",
+        "author_firasd",
+        "story_21312505"
+      ],
+      "objectID": "21312505",
+      "_highlightResult": {
+        "title": {
+          "value": "'Everybody Is Freaking Out': CA law aimed at Uber might harm freelance writers",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.hollywoodreporter.com/news/everybody-is-freaking-freelance-writers-scramble-make-sense-new-california-law-1248195",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "firasd",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 6
+    },
+    {
+      "created_at": "2019-10-21T14:13:02.000Z",
+      "title": "Bash Scripts to Automate the Installation of ModSecurity WAF and OWASP CRS",
+      "url": "https://github.com/shubhampathak/ModSecurity-NGINX-setup",
+      "author": "ShubhamPthk",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571667182,
+      "_tags": [
+        "story",
+        "author_ShubhamPthk",
+        "story_21312450"
+      ],
+      "objectID": "21312450",
+      "_highlightResult": {
+        "title": {
+          "value": "Bash Scripts to Automate the Installation of ModSecurity WAF and OWASP CRS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/shubhampathak/ModSecurity-NGINX-setup",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "ShubhamPthk",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
